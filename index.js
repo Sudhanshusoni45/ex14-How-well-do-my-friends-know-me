@@ -18,11 +18,23 @@ var questionTwo = {
 }
 
 var questionThree = {
-  question : "who is my fav superhero ",
+  question : "who is my fav superhero? ",
   answer : 'batman'
 }
 
-var arr = [questionOne,questionTwo,questionThree]
+var questionFour ={
+
+  question : "what is my Fav movie? ",
+  answer : 'batman begins'
+}
+
+var questionFive ={
+
+  question : "what is my Fav Sports? ",
+  answer : 'table tennis'
+}
+
+var arr = [questionOne,questionTwo,questionThree,questionFour,questionFive]
 
 
 
